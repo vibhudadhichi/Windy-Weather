@@ -6,4 +6,4 @@ Uses Darksky Weather API.
 Implemented Hourly Report using Recycler Views.
 Implemented Weekly Report using Custom List Views.
 For Location I used a github repository - https://github.com/mrmans0n/smart-location-lib
-
+Apk Link : https://github.com/vibhudadhichi/Windy-Weather/blob/master/app/app-release.apk
